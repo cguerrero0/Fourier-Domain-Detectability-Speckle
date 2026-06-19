@@ -94,6 +94,16 @@ It is not intended to provide:
 
 ---
 
+
+## Contact
+
+C. A. Guerrero
+Facultad de Ciencias Físico Matemáticas
+Universidad Autónoma de Nuevo León
+Email: carlos.guerrerop@uanl.edu.mx
+
+---
+
 ## Requirements
 
 ### Python
@@ -109,14 +119,6 @@ Install them with:
 ```bash
 pip install -r requirements.txt
 
----
-
-## Contact
-
-C. A. Guerrero
-Facultad de Ciencias Físico Matemáticas
-Universidad Autónoma de Nuevo León
-Email: carlos.guerrerop@uanl.edu.mx
 
 
 
