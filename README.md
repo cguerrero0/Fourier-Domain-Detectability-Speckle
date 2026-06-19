@@ -106,6 +106,14 @@ Minimal dependencies:
 
 ---
 
+## Archived release
+
+An archived release of this repository is also available through Zenodo:
+
+https://doi.org/10.5281/zenodo.20248527
+
+---
+
 ## Contact
 
 C. A. Guerrero
