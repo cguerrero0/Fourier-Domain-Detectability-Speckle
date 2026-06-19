@@ -75,6 +75,25 @@ Standard ignore rules for Python, Jupyter, and generated outputs.
 
 ---
 
+## Notes on scope
+
+These scripts are intended as illustrative and reproducible tools. They are not designed to replace full observational reduction pipelines or complete inversion frameworks.
+
+The current implementation is intended to:
+
+- visualize Fourier-domain binary signatures,
+- define practical detectability regimes,
+- compare the effects of attenuation, noise, and detector sampling.
+
+It is not intended to provide:
+
+- full atmospheric wavefront propagation,
+- full detector-response modeling,
+- complete parameter-recovery precision surfaces,
+- full calibration pipelines for real observations.
+
+---
+
 ## Requirements
 
 ### Python
@@ -89,3 +108,16 @@ Install them with:
 
 ```bash
 pip install -r requirements.txt
+
+---
+
+## Contact
+
+C. A. Guerrero
+Facultad de Ciencias Físico Matemáticas
+Universidad Autónoma de Nuevo León
+Email: carlos.guerrerop@uanl.edu.mx
+
+
+
+
