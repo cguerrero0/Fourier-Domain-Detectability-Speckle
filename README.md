@@ -13,7 +13,7 @@ The repository is designed to illustrate and reproduce the main figures and simu
 - one-dimensional visibility curves,
 - two-dimensional binary power-spectrum maps,
 - illustrative binary autocorrelation maps,
-- detectability maps in the \((q,\Delta m)\) plane,
+- detectability maps in the (q,Delta m) plane,
 - sampling-dependent detectability simulations,
 - attenuation-dependent detectability simulations.
 
@@ -39,7 +39,7 @@ Main notebook containing the full sequence of figure-generation scripts and semi
 
 ### Pseudocode files
 - `pseudo_detectability_map.p`  
-Pseudo-code for the generic detectability map in the \((q,\Delta m)\) plane.
+Pseudo-code for the generic detectability map in the (q,\Delta m) plane.
 - `pseudo_sampling_map.p`  
 Pseudo-code for the sampling-dependent detectability map.
 - `pseudo_eta_map.p`  
